@@ -6,10 +6,10 @@
   #end
   # your code here
   #return new_array
-  def square_array(array)
-    new_array = []
-    array.each do |element|
-        new_array << element ** 2
+def square_array(array)
+  new_array = []
+  array.each do |element|
+      new_array << element ** 2
   end
     new_array
 end
