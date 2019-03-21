@@ -4,6 +4,5 @@ def square_array(numbers)
   puts i**2 
   end
   # your code here
-  #numbers.each do |i|
   #return new_array
 end
