@@ -1,6 +1,6 @@
 def square_array(numbers)
   #new_numbers = []
-  numbers.each do |i| 
+  numbers.map do |i| 
   puts i**2 
   end
   # your code here
